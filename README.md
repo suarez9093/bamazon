@@ -15,6 +15,10 @@ This will then display all the items which will consist of an item ID, product n
 
 Using the inquirer package messages will then populate to the interface asking which item the user would like to purchace and the quantity. This will then deplete the stock quantity, update the interface as well as the database. 
 
+Link to Video:
+
+https://drive.google.com/file/d/12zgnA5_xomxplM1eYG4ltaz0OB-_wluo/view
+
 
 
  
